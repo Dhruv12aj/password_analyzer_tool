@@ -1,5 +1,8 @@
 # 🔐 Password Analyzer Tool
 
+**Description:** A Python tool to check password strength using multiple security metrics.  
+**Topics:** python, security, password-strength, cybersecurity, cli-tool
+
 A simple Python CLI tool to check password strength using various criteria:
 - Length
 - Uppercase & lowercase letters
