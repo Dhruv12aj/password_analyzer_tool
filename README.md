@@ -17,7 +17,7 @@ A simple Python tool to check password strength using various criteria such as:
 ## 🛠️ Installation
 Clone this repository:
 ```bash
-git clone https://github.com/dh12uvraj/password-analyzer.git
+git clone https://github.com/Dhruv12aj/password-analyzer.git
 cd password-analyzer
 
 Run:
