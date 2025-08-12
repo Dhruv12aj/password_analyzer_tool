@@ -1,6 +1,6 @@
 # 🔐 Password Analyzer Tool
 
-A simple Python tool to check password strength using various criteria such as:
+A simple Python CLI tool to check password strength using various criteria:
 - Length
 - Uppercase & lowercase letters
 - Numbers
@@ -8,23 +8,22 @@ A simple Python tool to check password strength using various criteria such as:
 - Sequential patterns
 - Repeated characters
 
-## 📦 Features
-- Analyze a single password
-- Analyze multiple passwords from a file
-- Interactive menu with continuous usage until exit
-- Outputs a strength score (0–100) and rating
+---
 
-## 🛠️ Installation
+## ✨ Features
+✅ Analyze a single password  
+✅ Analyze multiple passwords from a file  
+✅ Interactive menu with continuous usage until exit  
+✅ Outputs a strength score (0–100) and rating  
+
+---
+
+## 📦 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/Dhruv12aj/password-analyzer.git
-cd password-analyzer
+git clone https://github.com/Dhruv12aj/password_analyzer_tool.git
+cd password_analyzer_tool
 
 Run:
 python3 password_analyzer.py
 
-output:
-=== Password Analyzer Tool ===
-1) Analyze password
-2) Analyze password file
-3) Exit
